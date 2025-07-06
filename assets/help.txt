@@ -1,0 +1,17 @@
+Welcom to the Afton co. Animatronic Interfacing Terminal.\nCommands
+
+┌───────────────────────────────────────────────────────────────────────────────────────────────┐
+│               Command                                       Outcome                           │
+├──────────────────────────────────┬────────────────────────────────────────────────────────────┤
+│                 map              │       displays the layout of the location along with       │
+│                                  │              known animatronic positions                   │
+├──────────────────────────────────┼────────────────────────────────────────────────────────────┤
+│       root <animatronic-name>    │    will root into an anmatronic's terminal and allow you   │
+│                                  │    to run commands through the animatronics interface      │
+│                                  │    but you will leave this terminal and lose access to     │
+│                                  │    the listed commands here until you unroot and return    │
+├──────────────────────────────────┼────────────────────────────────────────────────────────────┤
+│              exit-game           │  exists the game (will not save current night's progress)  │
+└──────────────────────────────────┴────────────────────────────────────────────────────────────┘
+
+

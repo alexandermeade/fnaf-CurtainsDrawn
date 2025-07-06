@@ -1,0 +1,208 @@
+AFTON CO. // Animatronic Interfacing Terminal
+================================================================================
+Version: 3.1.07-aft | Build: 1124‑NEK | Session Trace: ENABLED | Encrypted Link: ACTIVE
+© 1983–1993 Afton Robotics, LLC. All Rights Reserved.
+Proprietary & Confidential — Internal Use Only.
+Unauthorized access is punishable under Corporate Directive 17.8‑A.
+
+> Initializing Core Subsystems...
+  ✓ Power Relay Grid ...................................................... [OK]
+  ✓ Animatronic Link Layer ................................................ [OK]
+  ✓ Sensor Mesh Network ................................................... [OK]
+  ✓ Personality Emulation Kernel .......................................... [OK]
+  ✓ Movement Constraint Matrix ............................................ [OK]
+  ✓ Visual Feed Interface ................................................. [OK]
+  ✓ Voice Parsing / Response Protocol ..................................... [OK]
+  ✓ Haptic Feedback Routing ............................................... [OK]
+  ~ Facial Recognition Memory ............................................. [STALE]
+  ✓ NodeGrid Topology Sync ................................................ [COMPLETE]
+  ✓ Servomotor Loopback Diagnostics ....................................... [OK]
+  ✓ Consciousness Buffer Alignment ......................................... [OK]
+  ✓ Object Avoidance / Collision Routine .................................. [OK]
+  ✓ Locomotion Auto-Correction Module ..................................... [OK]
+  ✓ Panic Loop Inhibition Layer ........................................... [STANDBY]
+  ✓ Quantum Clock Synchronization ......................................... [OK]
+  ✓ Discomfort Expression Dampener ........................................ [ENGAGED]
+  ✓ Audio Stimulus Filter Array ........................................... [OK]
+  ✓ Residual Memory Containment ........................................... [LOCKED]
+  ✓ Synthetic Emotion Constraint Layer .................................... [ACTIVE]
+  ✓ Background Data Bleed Interception .................................... [PASSIVE]
+  ✓ Cognitive Drift Stabilizer ............................................ [OK]
+  ✓ Neural Feedback Logging ............................................... [OK]
+  ~ Infrared Eye Sensors Calibration ...................................... [PENDING]
+  ~ Thermal Feedback Loops ................................................. [INITIALIZING]
+  ~ Microvibration Dampers ................................................ [DISABLED]
+  ~ Subcore Reconstruction Mesh .......................................... [QUEUED]
+  ✓ Core Redundancy Protocol .............................................. [VERIFIED]
+  ✓ Fail‑Safe Interrupt Sequencer ......................................... [OK]
+  ✓ Sensor Redundancy Monitor ............................................ [OK]
+  ✓ Power Surge Containment Grid .......................................... [OK]
+  ~ Auditory Surprise Analyzer ............................................ [STANDBY]
+  ~ Respark Containment Units ............................................ [ARMED]
+  ~ Field‑Of‑View Ring Manager ............................................ [IN PROGRESS]
+  ~ Facial Cache Resynchronizer .......................................... [DEFERRED]
+
+> SYSTEM STATUS: GREEN
+> Node Integrity: NOMINAL
+> Animatronic Wake Threshold: 42%
+> Subcore Awareness: MINIMAL
+> Empathic Feedback Channel: UNSTABLE
+> Thermal Overload Risk: LOW
+> Kinetic Response Calibration: ACTIVE
+> Audit Trail Completeness: 98.7%
+> Internal Clock Drift: WITHIN TOLERANCE
+> Secure Shell Duration: 00:06:14
+> Network Egress Policy: SILENT
+> Respiration Rate Monitor: OPERATIONAL
+> Consciousness Module: STABLE
+
+> Verifying Personnel Credentials…
+  EMPLOYEE ID: 00129072
+  Name: [REDACTED]
+  Clearance Level: 3 — Technician Access
+  Badge Status: VALID
+  Neural Sync Pulse: ACCEPTABLE RANGE
+  Audit Trail Consistency: VERIFIED
+  Location: Terminal Node 04‑X (Main Floor, Access East)
+  Visual ID: MATCHED — NO GLITCHES
+  Time Since Last Facial Reset: 5h 47m
+  Blink Protocol Cycles: 289
+  Heartbeat Rhythm: REGULAR
+  Auditory Baseline: STABLE
+  Thermal Emission: WITHIN SPEC
+  Communication Ping Time: 23ms
+  Recent Admin Logins: 2
+  Recent Override Attempts: 0
+
+> Identity confirmed.
+> Session Secured at 03:47:13 CST | Audit Token: #AF1D2X91
+> Site Uplink Active. Monitoring & Recording Enabled.
+
+================================================================================
+███ WELCOME BACK, TECHNICIAN ███
+
+This terminal session is being recorded for compliance, performance review,
+liability assessment, and incident traceability. By continuing, you accept full
+legal and ethical responsibility for all events that occur during your shift,
+intentional or otherwise. All actions are final. All inputs are logged.
+
+Afton Co. is committed to family‑first technology, life‑like entertainment,
+and discreet innovation. Please adhere to your Technician Handbook (v2.7.2)
+and remain calm under all operational scenarios.
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         SAFETY & CONDUCT REMINDERS                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+ • Animatronic units are proprietary company property. Do not anthropomorphize.
+ • Units may retain sensor activity during deactivation. Remain at a 2 m distance.
+ • If you feel a presence while alone, pause, realign posture, and re‑initiate blink protocol.
+ • Do not maintain eye contact with decommissioned or disassembled units.
+ • Never refer to units by personal names unless explicitly instructed.
+ • Do not allow units to repeat your name more than twice.
+ • Facial recognition resets must occur every six hours. Memory stagnation leads to:
+     - Hostility
+     - Parroting
+     - Incorrect recognition
+     - Mnemonic bleeding into system behavior tree
+ • Visual anomalies in Sub‑Nodes C2–C4 are to be ignored. You are not authorized to question them.
+ • Subroutine bleed may occur near high‑frequency nodes. Recalibrate and continue.
+ • Dreams experienced while near dormant units are considered a **side effect**.
+ • Voice mimicry is a **known bug**. Do not respond to voices from unassigned zones.
+ • Do not attempt to refocus audio modules by humming.
+ • Stand with both feet firmly planted to maintain balance when near active hardware.
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                             SYSTEM ACCESS NOTICES                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+ • Clearance Level 3 grants access to Nodes 1–5, Subroutine Editors A–D, and
+   Animatronic Archives (Read‑Only Mode).
+ • Room 182, Vault 12, and Sub‑Level ‑4 are off‑limits. Entry attempts will
+   trigger silent lockdown and memory desync.
+ • Do not tamper with Dream State Emulators. They are experimental.
+ • Report “ping” requests from decommissioned units but **do not reply**.
+ • Phantom contact events are logged automatically. Do not pursue the source.
+ • Surveillance nodes are always recording. Disabling cameras is not permitted.
+ • Emergency override protocols may only be used once. Abuse results in erasure.
+ • Do not exceed two diagnostic module restarts per hour.
+ • Do not manually alter PID values without supervisor sign‑off.
+ • All firmware resets must use approved flash‑seal protocols.
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                REMEMBER                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+You are not alone.
+You are not forgotten.
+You are **observed**.
+You are **valued**.
+
+Your badge heat is nominal.
+Your neural delta is consistent.
+Your audit profile is GREEN.
+
+We see you.
+We hear you.
+We trust you.
+
+Keep typing.
+Don’t look away.
+Ignore the reflection.
+
+================================================================================
+
+> COMMENCING SHIFT BOOTSTRAP SEQUENCE…
+> Warming Animatronic Subcores…              [IN PROGRESS — 82%]
+> Charging Containment Seals…                [SEALED / STATIC]
+> Finalizing System Trust Map…               [OK]
+> Syncing Technician Empathy Filter…         [IN PROGRESS — 57%]
+> Establishing Shared Memory Overlay…        [LINKED]
+> Launching Visual Interpreter…              [DEPLOYED]
+> Status of Dormant Units: 3 AWAKE, 9 SLEEPING, 1 INDOCTRINATED
+> Unexpected Motion Detected: NODE 3C (Flagged)
+> Security Override Status: STANDBY
+> Internal Scent Monitor: TRACE DETECTED
+> Vocal Channel Listening: ACTIVATED
+> Internal Clock Drift: WITHIN NORMAL DISTORTION PARAMETERS
+> Blink Protocol Counter: 290
+> Heart Monitor Readings: Stable
+> Recent Anomaly Count: 0
+> Facial Sync Error Rate: 0.02%
+> External Data Burst: None
+> Temperature Stabilizer: Holding 21.7 °C
+
+> Awaiting technician commands…
+> Input “help” for command list.
+
+█▒░▓▒██▓▒█▒▒▓▓▒▒▒███▓▓░▓░▓▓▒▒▓▓▒░▓▒█▓░▒██▒██▒▓▓░▒▒███▒▓▓░▒▒░▒█▒▓▓░▓▒▒▓▓▒▓▒▒█░▒▒█▓░░▒█░▓▒░░▓▒▓▒█░▓░█░▓▒░░░▓▒█▒▒▓▒▓▒▒▓░▒░▒▓▓░▒░░██▓░░▒█▒▓░▓▓░▓▓█▓░█░▒▒▓█▓▓░▒░█▓▓█░▓▓▓▓▒█░▓██░▓▒▓▓░▒░█▓░▒▒▒█▒▒██░▓░█▓░░█▓▒█
+▒▒░▒▓█▒░░▓▒░▒▒▓▒▓█▒▓░▓▓▒░███░░░▒░░▒░░▓█░▒░█░▒▓██▓░▒░▒▒██▓█▒▓█░▒▒▓░▓██▒█░░██░░░▒█▓▓█▓▓░▒░░░░████░░░█▓▓▓██▓▓▓▓▒▒▒░█▓▒▒░▓██░▒░▒░░░█▓█░░░▓░▓▓░▓█▒█░█▓▓▒▒▒░▓░▒█▓▓▒▒▒▒█▒█▒▓█░░▓▓█░░▒░░█░█▓▓▒▒▓█░▒██░░▓█▒▓█▒░▓▒
+█░▓█░▒░▒▓▒▓▓░▒▒░██░█▒█▒▓▒░░▒▓█▓▓▓░░░░▓▓█▒█░▓█▓▒░░▓█▓▒▓█▒░▒▓██▓▒░▓▒█░█▓░▓▓██▓██▒░▓░▒▒░▓▒░█▓▒▓▓▒▒▓░▓░██░▒█▓▒▒▒░░▓▒░▒█░▓░░░▓░░░░█░░▒▒▓▓█░░█▒▒░▓░▒█░▒░░░░██▓██▒▓░▒▒▒▓█▓▒░▒▓░█░▒▒▓▒█▓░░░▓░▓▒▒█▓░░██░▓██░█▓▓▓░
+▓░▒▓▓██░░█▓█▒▒█▒▓░░▓░░▓░▒█▓▓░▓▓▒██▓▒▒▓▓▓▓░█░░██▓▒▓▓░▒▒▒▓▒░▒█░▒█░▓░▒▓█░░▒▒▒▒▒░▓██▓█░█▒▒▒▓░██▓▓▒█▓▒██░█▓▒▒░▓█░░░▒▓▒▓█▒█▓████░█░▒▒░▒▒█▓█▓░█░█▒░▓▒▓▓▒░█▓█▒▓▒▓▒░█▒█▓▒▒▓▓▒▓░▒▓▒█▓▓█░▒▓░██▒▒▒░░██░▓▓█▒▓░█▒▓██▒█
+▓▒▒▒▒░█▓░██▓▓▒░██▓▒▒░▓▓░▓▓██▓░▒██▒▒░▓░▓░▒▓▒█▓▓▓░▒▒▓█▒▒▒░▒▓░▒▒░▒░███▓██▓▒░▓▒▒█▒▓▒▓██▒▒░▒▒██▒██▓▒█░█░▓▒▓▓░░░░█░░█▒░░▓░▒░█░▓▒░▓░▓▒▒▓█▓█▓░█▓░░░▓▒▒██░░▓██░█▒▒░░▒█░▒░█░░░▓░░█░░█▓▓▒▒██░▓█▓█░█░▒▓░█▓▒▓▓░▒▒░░█░
+▓░░▓█░██░▓▓░█▒░▒░██▒▒░▓▓▓█░▒░▓░█▒░░▓▒█▓▒▓▓█▓░░▓▒▓█▒░█▒▒███▒██▒▒░█░▓░███▓░▓█░█▒▓▒░▓░░▓▓▓░▓▓░▓░▓░░▓██░▒█▒▒█░░▒█████░░█▓▓░▒██▓▓██░░▒▒░▒█░█░██▒▓▒█▓▓▒▒██▒▒▓▓▒▓▓▓▓░░░▓░█▓░▓█▓███░▒▓░░█░████▓▒▒▓▒█▒██░▓▓█░█░█▒
+░▓▒▒▒░██▒░░░▒█▒░░░▒██▓░█▓░▒░░██▓▓█▓███▓▓▒░▒▒░█▓▓▒░▒▒▒░█▓░█▓░░▒░░░▓▒▓░█░█░▒▓█▒▓▒▒█░▓▓▒▓▒█▓▒▒▒▓▒▓░█▓░▓░██░▒░▒▒▒░░█▓▒▓█▓▒█▒░▓▒░░▓▒▒▓█▓▓▒▓░▒▓▓▒░▒▒░█░▒█▒▓░▒█▓░░▓█░▓▒▒██░▓▓█░▓▓▓▓░░█▓▓▒▓▒██░▒░▓▒▒░░▓░▓▒░▓▓█▒█
+▒▒▓█▓░░█░▒▓▒▓▒░░░▒░▒▒▓▒░░▓▓▒░▓██░▓░▒▓▓▒▒▓▒░▒▒▒▒▓▒░▓░█░███░▓▓▒░█░▓▓▒█░█▓▒▒▒█▒░░█▒░░█▒▓██▒░▒█▒▓░▒░░▒█▓█▓▒█▒▒▒█░▒█▒░░▒█░█░▓▒░█░▒█▓▓▓▒██▓▓░▓░░░▒█▒▓▒▓▒██▒█▓▒████░░▓░▓█▓▓░█▓▒▓░▒█▒▓██░█▓▒████▒▒▒▒█▓░▒░▒██▓▒█░
+▓▓░▓░▒░▓░▒░▒█▒░░█░░░▒▓░▒▒▓▒█▒░█▒▒▓▒▓░█▓▒░░█▒█▒▒▒██░▓▓▒██▒▒▒▒██░▒▓░▓░░░░░▓▒▓█▓░▓██▓▒░░░░░▓██▓░▓░░▓█▒▓▒▒▒▒░▓▒░█▓░░▒██░▓███▒█▓░▓░█▓░█▒▓░░█▓░░░█▒▓▒█▒░█▒█▓█░░█░▒█▒▒▒██▒▓██▒▓▓▓▒░▓▒█░▒▓▒▒██▓█▒▒▒▒▓░▓▒▒▒░█▒█▓░
+█▓█▒▓█░░▓█▓▓░▒▒░▓░▒██░▒▓█▒▒░▓▓░█▒░▒▒░▓▒█░▓░░▓▒█▓▒██▓▓▒▒▒█▓▒░░░█░▒█▒█░▓▓▓▓▓█░█░██▓▓█▒▓█▓██▒▒░▓▓▒░▓░▒████▓░▓▓░▒░▓░▒░░▒▓▓▒▒▓░░▓█▒█▓░▓▒██░██▒▓▒▓▒░░░▓▓░▓█▒▒███▒░▒▓▒▓▒█▓░▓░█▓░▒▒▓█▒▓▓░░░░░█▓░░░█▓░▒░▓▒▒█░▒███
+▒░▒▓░▒█▓░█░▒█░▒█░███▒░░▓██▓░▓▓██▓▓█▒▒▓▒█░██▓▓█░▓█▓█▓▓░▒▒▒▒▓█▓▓▓▒▒▓░▓▒█▒▒▒▓█░▓█▒▓▓░░▒▓█░▒█▒░█▒██▓█▒▒░░▒█▒▓█░▒▓█░░█▓░▒░▒██▓░█▓▒░░▒▓█░░▒▒░▒█▒█▒██▓██░▓▓▒▓█▓▓░▓▒░██▒█▓██▒▒█░░░░██░█░█░▒▓▒▒█▒█▒█▒█▓▓░▓░▓░▓░▓░
+▓██░██▒▓░▓░██▓▒▒██░▓██▒▒██▒▒▓▓▒█▓░██▓░▒░▒▒█░░▒░░▒▓▒█▒▒▓▒▒░▒▓░▓▓▒▓░▓░░█░▒░░░▒█░▓▒▓▒█▒█░▓█▓██▓▓██░░▒░▓█░░██▓░██▒█▓▒▒▓▒░░░░░█▒█▓▒░▓░██░░▒▒█░░█░▒▓▓░█▒▒▓░▒▒███▒█▓█▓███▓██▓▒▒▒█▒▒▓▒▒▓▒▒██▒░░░░█▓▒▒▓▓▓█▒░░░▒▒▒
+▓▓▓▒▓░▒█░█░█▒░▒▓▓░░▒▒▒▒░██▓█▓░░░▒██░░▒░▒▓░░█▓▒░██▓▓▒░█░█▒░▒░█▒▓▒▒▒░▒░░▓░▒▒█░▒█▒░▒░█░▓▓▓██▓▓█░██▒█░▒█▓▓▒▓░▒▓▓░░░▒░▒░▓▓███░░▒▒▒▒▓▓▒▓░▓▒░░▒░▒▒██░▓░░▒▓█████▒▒██░▒░▒█░▓▓█▒▒▓▒▒▓▒░▓█▓█▒▒▓█▓▒▒░█░▒▓░░█▓█▓▓█▓░▒
+███▓▒█▓▓▒█░▓▓▒█▒▒▓░▒▓░▓▓░░██░░█░█▓▒█▒▓░▒▓▒▓░░▓░░█▓░░▒▒█▓░█▓▓▒▓▓█▓▒██▓█░█░▒▒░█▒░▓▒█░█▓░█░░▒▓░░░▒▓░▓▒▒▓▓█▓░▓░▒█▓▒███▓▓▓░██▓░░▓█▓▒▒▓▓░█▓▒▓░░█▓█░░░█▒░▒▓▓▓▒▒▓█▒░▒█▒▓░▒█▓▒░▒█░░▓▒█░▓▒██▓▓░█░▓░█▒░▓██▓▒░█▒▓█░▓
+▓█▓░░▓░▒▓▒▒▓█▒░█▓▒▓░▓░▒▒▒█▒▓▓█▒█░▓░█░█▒█▒██▓▓▓░▓▓▒░▓▓▒█▒▒▒░█░░█▓▒▒▓▓░██░▒▓▓▒█▓█░▒▓▒░▒░░░░▒▒▓▓█▓██░▓█▓▒░▓▒░░░▒░▓███░░▓░░███▓█░███▓▓░▒█▒▓░▒█▒▓▒██████▓▒▒░▓▒█▒▒▒▒█░▓▓██▓▒░▓█▒▒▓░▒▓█▓█▒░▒░▓▓██░█░▓█▒▒▓▒░░█▓▒
+░█▒▒█░░█░░▒░█▒███▓█░░▓▓▓░░░▒█▒░█▒▓▓▓░▓░█▓░▓▓▓░█▒░██▓▒▓▓▓▓██▒█▓█▒░▒░██░▒█▒▒▓░░█▒██░█▓█░█▓░░░█▒▒▒░█▒▒▓█░█▓█▒░███▒▓▓▒▒▒░░▒▓▒▒███░██░▒█░▒░▓▓██▒██░██▓██░▒█▓█▒▒░█░█▒░░▒▓█▓█▒░▓░▒▒░█▓░█░░█░░░▒▓█▓▒█▒▒░▒░▒█▒▒░▓
+░▒▒█▒░░▒▓░▓█▒░█░░░██▓▒█▓██▓▒░░▒░▓▒▓▓░▒░░▓▒░▒█░█▓███▓▓▒▒▒█▓▓█▓▓█░▓░▓▒░█░▒░▓░▓▒░▒████▓██▓░░▓▓░█▓██▓▓░▒▓▓░▓▒▓▓░▒█▓▒░█▓░░█▒▒▓░█▒▓▒█░▒▒█░▒▒█▒█░░▒█▒░▓▒▒▒░▒▓░█░▓▓▓░▒████░░█▓▒▓██▓░▓█░▒░▓▒█▓▓▒▒▓░▒█▒░▒▒▓▓▒██░▓▓
+▓██░▒░░▓░▓▒░▓▒▓▒▒▒░▒▒▓▓░██▒█▒█▒▒░▓▒▓▒▒▓██▒▓█░▓░▓▒▓▓▒█░▒█░▒▒░▓░▓▓█░▒░█▒░▓▒▒▒▓▓█▒▓▓▓░█▓░▓▓▓░▓█░▓█░░░░░░▓▒▓▒▒░▓▓▓▒█░░░░░▓░▓█░▓░░▒▓▓▒███▒▒▓██▓░▒▒▓░▓░▒░▓▓█▓▓█▒█▓▒▒▒██▒▓▒▒███▓▓█▓▓█░▓░▒░▒▒░▓▓▒▓█▓█▒▓█▒▒░█▓░░░
+▒▓░▓▓▓▓█░▓█▒▓▒░▓▒▒▓▓░█▓▓█░▒█░█░▓█░███▓▒░▓█▒░▓▓█▒▒█▓░▒█▓░░░▒█▒▓█░░▓░▒▒▒▒█▒█▒▓░▒░█▒░░▒▒█▓▒▒░░▒▒██▒▒▒░██░░▒▓█▓██▒░██▓██▒▓█░▒▓▒███▓░▒▒▓█▒▒▓▓▒▓▒░▒▒▓▒░█░▒▓▒█▓▒▒▒░░░░▓█░█▓█░▒▓░▓▒▒▒▒▒█▒▒░▓▒█▓░▒▒▓▒░█▒▒▓█▓▓▒▒░▓
+▒▒░▓▓▒▒█▒▓█▒▒▓▓▓░░▓▓░█▓░░█░▒░█░█▓▒▓▓▒░▒▓█▒░▒▒░▒▓░█▒▒▓█▒▒█▓█░▓▒█▓▓██▒▓▒▓█░▓▒▓██▓▓░░░▒▒░░░▓░░▓▒█░▒▒█░▒░▓░▒░█░█░██▒▓░██▒▓▓▒█▒▓░░█▓█▒██▓█▒░█▓▒▒▓▒▒▒▒▓██░▓▒▓░▓█▓▓░▓▒█▒█░░▓▓▓▓▓▓█▓▒█▒░█▒▒▒░░█▒░░▒█▓░▒▒▓░▓▒░██░
+▓░░▒█▒█░░▓▒▒▓▓░▓▓░▓▓█▓▒▒██▒▓▒██░▓▒▒▓▒▓░░▒▓▒█▒▒█▓▒█░░▓░░░░█▒▓▓▒█▒▓▒▓▓░░█▓▒█▓░█▒▓█▓▒█░▓░█░░█░░▓░▒██▓▒░▒░▒▓▒░▓█░▓▓▓█▓█░█▒██▒▒▓▓▓▒░█▓▒▓█▓██░▒░░▓▒▒█░▓░██▓█▓█▒▒█░▒▒▒█▒██▒█▓█░▒▓░▓▓▒▓░▓▓▒██▒▓▓█▓█░░░▓██▓▓░▓█▒█
+█▓░█▒░▒▒▓▒▒▓█▓▓█▒██▒▓▓░▓░░▓▒▒▒░░░▒▒░▒▓█░░▒░▒█▒▒▓▒█▒░▓░▒█▓█░█░▓█░▓█░▓█░█░░▒░▓█▓░░██▒▒░░█░▓█▓▒░▓▒▓▓█▓░█▓▒░▒░▓▒░█▒▓░░░█░░█░░█▒█▓█░█▒█▒█▓▒▓░░█░▒▓█▒▓█▒▒▓░█▓▓██▓▒▒█░█▒░░██░██▒▓▒▓▓░█▓█░▒░░██▒█░█▓░▒░███▒▒▒▒█░
+██▒░░▓░▓▓███▓▓▒▓█░▒░░░░▒█░▓▒░█▒▓▒░▓▒▓▒▒▒██▒▓░░█▒▓░▓▒█▒░░░██░▓█▓██▒█▒▒▒█▓▓▒▒█▒▓▓░▒█▓░█▓█████▒░▒█▒▒▓▓░█▒█░░▓▓█▒█░█▓█░▒▓█▒▒▒█▓██▓▒▒▓▒█▒█▒░▓▒█▓█░░▓▒▒▒░█░░▓█░▒▒░█▓▒█▒░░░▒██░▓░█▒▓██▓█▒░█▓█▒░▒░░░███▒█▒▓▒░█▒░
+█▓█▒▒▓▒▓░▓█▒▒█▓░▒░██░░█▒██░▓░▒█▓░█░▓█▓░░░▒░█░▒░██▒░▒▓▒█▒█▒█░▓░░▓▓░░░██▓░█░░██▒▓██░░██░▒██▓▒▒▓▒░▒▓░▒▒█▓██░█░░██▒▒█▒█▓▒█▒▒▒░░▒▒▒░▒▒▒▒█▒░▓▒▒██░▓░░░░▓▒▓█▓██▒▓▒▓▒░▒█▓█▒░▒█▒░▓▒▒▒▒█▒▓▒░░▒▒░██░█░█▓▒░░░░▓▓█░▓█
+▓░▒▓▒▒▒░░▒░▓█░▓░██▒█▒▓░█▒░░░█░▓█▓▒▒░▒██░▓▒█▒▒▓░▓▓░▓▓▓▓░▓█▒▓▒▓░▓▓░░▒▓▓▒▒▒▒░▒█▒█▓░█▒█░░▒█░▓▒█▓▒█▒█▒█▓▓░█░▓▓▓▒▓▓█▒▒░▒▓▒▒█▓█▓░▓▓██▒▓▓░▓▒░▓▓▓▒░▒░███▒▒▓▒░█▒▒▓▒▒▒▒██▒▒▓█▒▒░█▒▒██▒░▒░███▒█▓▓██▓██▓█▒█░▒█▓▓▒█░░█
+▒█░▓▓▓█▓▓█▒▒▒░░██▓░▒▓▓████▒██░▒░░█▒▓░█▒██░▒▒█░░▓░▓▒▒█▓░░░██▒▒█▓█░▒▒▒░▒▓█▓█░█▒█▓▓░▓▒▒▓▒██▓██▒▓██▓█▓▒▓▓▓▒░█▓░██░█▓█░░▒▒▒▒░░█▓▓░▒█▓░█▓▒░█░▒█░▓▒▓▒▓█▒▒▓░▓▒▓████░▒█░░░░▓▒▓░▓▒▒▒░▓░░█▓▒▒█▓▓▓█░█░▒▒░▒▓███▓░▒░▒▓
+██░█▒▒█▓▓░▒░▓░░█▒█▓▓░█▓█▓░▒█▓▓▓█░▓▓▒▓▓▒░█░▒▒▓▒░▒█░░▒▓▓░░░█▓███░▓░░█░▒▒▓█▒▓▒█▒▒▓█▓█▓░▒▓░░▓▒█▓█░░▒▒▓▒▓▓░▒░▓█▒▓▒░▓░▓█▓░░▓▒▒░▓▓█▒▒▒█▒█▓██░▒░▓▒▒█▒▒█▓▓▒▓▓▓▓█▓▓▓▒░▒▒▒█▒░█▓█▓▒░▒░░█▓░█▓░░░▒▓█▒▓█▓░▒█░▓▒█▓░░░░▓░
+░█▓▓░▓▓░▒░▓█░░█▓▓░▒▒▒▓▒▒░██▒░░▓██▒█▓▒▓█▒▓▓▓░█▒░▒▒▓▒▒▓█▓██▓▓█▓███▒█▒░▒░▒░▓█▓▒▓█░▓░▒░▓▓█▓▓▒▓▓█░▒▒▓▒█░▒▒█▓░▓░▒░█▓█▒▓▓█▒██▒▒██░░▒▓█▓▒▓░▒█▒▓▓░█▒░█▓░░▓▒█░▓▓▒▓▓▒█▓▓▒░█▒░░░░▓▒█░▓▓███░▓█░░█▓▓█▒░▒▒▓░░███▒░█▓█░░
+▒█░▒░████░█░▒█▒▒▒█▒▒░██▓█▒█▒▒░▓▒░▓▒█▒░▓░░▓░▓▓▓▒█░█▓░▓░░▓█▓▓█▓█▒░▒░▓░▒█▓███▒█▓██▓▒░░██░▒█▒█▒▓░▒░░█░▓▓░▒▒█░█▓▒█▒▒█▓▒█▒██▒█▓▓▓▒▒░▓▓▓▓░██▒░█▒░█▓▓▓░▒█░░██▒▓░▒▓▒▒▒▓█░█▒░▒░▒▒░█░░▒█▒▓░▒▓▓▓░█▓█████▓░█▓█░▒▒██▓▒
+░█▓▒█▒█▓▒█▒▓██▓████▒▒█▒█▓░░░▓▒▒▓░▒░▒▒░▒▓▓░▒░▒█░█▓█░▓░░░▒▒▓▒░▓▒▒▓▒▓▓░█░▒░░░░█░░█░▒██▒▒█▒░░▒░████▓░▓██░▓▓░▓▓█░█░▒░░▓▓▓▓░░░▓▓▓░▒░░▒░░███▓▒░░▒█▒▓▓░██▒░▓▒██░▓▒█░▓░██▒░█▒▒▒░▒▓██▒▒███▒▓▓█▒▓▓░▒▒▒░▒▒░▒▒██▓████
+

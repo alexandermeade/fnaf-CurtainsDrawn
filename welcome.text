@@ -1,0 +1,53 @@
+AFTON CO. // Animatronic Interfacing Terminal  
+--------------------------------------------------  
+Version: 3.1.07-aft | Build: 1124-NEK  
+© 1983–1993 Afton Robotics, LLC. All Rights Reserved.
+
+> Initializing core subsystems...
+  ✓ Power Relay Grid                [OK]  
+  ✓ Animatronic Link Layer          [OK]  
+  ✓ Sensor Mesh Network             [OK]  
+  ✓ Personality Emulation Kernel    [OK]  
+  ✓ Movement Constraint Matrix      [OK]  
+  ✓ Visual Feed Interface           [OK]  
+  ✓ Voice Parsing / Response        [OK]  
+  ~ Facial Recognition Memory       [STALE]  
+  ✓ NodeGrid Topology Sync          [COMPLETE]  
+
+> Verifying personnel credentials...  
+  EMPLOYEE ID: 00129072  
+  Clearance Level: 3 — Technician Access  
+  Badge Status: VALID  
+  Location: Terminal Node 04-X (Main Floor, Access East)
+
+> Identity confirmed.  
+> Session secured at 03:47:13 CST | Audit token: #AF1D2X91
+
+--------------------------------------------------  
+
+WELCOME BACK TO WORK, VALUED EMPLOYEE
+
+Thank you for reporting on time and with purpose.  
+Afton Co. is committed to the future of family entertainment,  
+powered by innovation, discipline, and you.
+
+Please remember:  
+ • Animatronic units are property of Afton Co.  
+ • Unscheduled interaction may result in termination.  
+ • Always ensure facial recognition data is synchronized.  
+ • Observe animatronic idle cycles—do not interrupt.  
+ • Do not tamper with locked service panels without Lead Tech override.  
+ • Unit speech errors are expected. Log all anomalies.  
+
+Your actions are being logged.  
+Your dedication is being appreciated.  
+Your presence is required.  
+
+We see you.  
+We hear you.  
+We trust you.
+
+Have a productive shift.
+
+--------------------------------------------------  
+
